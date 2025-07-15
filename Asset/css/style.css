@@ -1,11 +1,12 @@
 /* assets/css/style.css */
 
+
 /* Base styles for the body */
 body {
     font-family: 'Inter', sans-serif;
     /* Soft gradient background for a more modern feel */
-    background: linear-gradient(to bottom right, #f8f8f8, #e0e7ff); /* Light gray to light indigo */
-    color: #333;
+    background: linear-gradient(to bottom right, #e1b7d9, #ededed); /* Light gray to light indigo */
+    color: #242a98;
     min-height: 100vh; /* Ensure body takes full viewport height */
 }
 
